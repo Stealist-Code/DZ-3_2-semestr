@@ -68,6 +68,7 @@
             // 
             richTextBox.Location = new Point(12, 115);
             richTextBox.Name = "richTextBox";
+            richTextBox.ReadOnly = true;
             richTextBox.Size = new Size(296, 318);
             richTextBox.TabIndex = 4;
             richTextBox.Text = "";
